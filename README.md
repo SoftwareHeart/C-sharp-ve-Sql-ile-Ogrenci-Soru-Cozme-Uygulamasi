@@ -1,4 +1,4 @@
-# C--ve-Sql--le---renci-Soru---zme-Uygulamas-
+# C#-ve-Sql-ile--Örenci-Soru-Çözme-Uygulaması
 Manisa Celal Bayar Üniversitesi Yazılım Mühendisliği Yazılım Dersi Dönem projesi
 3 Kullanıcı tipi vardır
 1-)Admin: Sınav sorumlusu ve öğrencileri listeleyebilir, isterse silebilir.
